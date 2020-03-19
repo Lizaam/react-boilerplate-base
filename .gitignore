@@ -1,0 +1,4 @@
+# Base ignoring
+dist
+build
+node_modules
