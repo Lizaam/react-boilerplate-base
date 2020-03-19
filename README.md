@@ -38,4 +38,4 @@ As stated before, the boilerplate is still in progress, more dev dependancies wi
 
 # Credits
 
-Provided and built by Lizaam Esau, specialising in JavaScript Development with good knowledge on Back-End Development as well.
+Provided and built by Lizaam Esau. Basic React Boilerplate Setup
