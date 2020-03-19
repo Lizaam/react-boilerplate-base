@@ -29,6 +29,7 @@ To build for production, run following command
   <li>React Dom Routing</li>
   <li>Node Sass, Sass Loader</li>
   <li>Webpack, Webpack CLI, Webpack Dev Server</li>
+  <li>ESLint</li>
 </ul>
 
 # Important, need to know
