@@ -22,5 +22,19 @@ To build for production, run following command
 # Tools Included in this project
 
 <ul>
-  <li><li>
+  <li>React Dom Routing<li>
+  <li>Babel<li>
+  <li>CSS Loader, HTML Loader<li>
+  <li>HTML Webpack Plugin<li>
+  <li>React Dom Routing<li>
+  <li>Node Sass, Sass Loader<li>
+  <li>Webpack, Webpack CLI, Webpack Dev Server<li>
 </ul>
+
+# Important, need to know
+
+As stated before, the boilerplate is still in progress, more dev dependancies will be added, but regarding coding style, file structure, or other build tools, these are things that can be done specifically to the whomever is using the boilerplate
+
+# Credits
+
+Provided and built by Lizaam Esau, specialising in JavaScript Development with good knowledge on Back-End Development as well.
