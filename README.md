@@ -8,7 +8,9 @@ To begin, use `npm install` to install all dev dependancies.
 
 To clone respository, run following command 
 
-`git clone https://github.com/Lizaam/react-boilerplate-base.git
+`
+git clone https://github.com/Lizaam/react-boilerplate-base.git
+
 cd react-boilerplate-base
 `
 
