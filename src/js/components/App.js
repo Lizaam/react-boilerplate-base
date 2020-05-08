@@ -1,12 +1,11 @@
 import React from 'react';
+import HomeComponent from './home/home.component';
 
 const App = () => {
   return (
-    <div className="row justify-content-center">
-      <div className="col-md-6 text-center">
-        React App Working
-      </div>
-    </div>
+    <React.Fragment>
+      <HomeComponent />
+    </React.Fragment>
   );
 }
  
