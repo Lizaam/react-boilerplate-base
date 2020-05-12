@@ -30,6 +30,7 @@ To build for production, run following command
   <li>Node Sass, Sass Loader</li>
   <li>Webpack, Webpack CLI, Webpack Dev Server</li>
   <li>ESLint</li>
+  <li>React Id Swiper, Swiper</li>
 </ul>
 
 # Important, need to know
