@@ -1,4 +1,4 @@
-# React Boilerplate Basic
+# React Boilerplate - JavaScript
 
 This is a base react boilerplate template to minimize my setup time when i start building front end application.
 
